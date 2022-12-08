@@ -1,4 +1,4 @@
-					/*Ng�n ng? thao t�c d? li?u (Data Manipulation Language)*/
+					/*Ngôn ngữ thao tác dữ liệu (Data Manipulation Language)*/
 
 
 --2
@@ -18,7 +18,7 @@ WHERE(NGDK<'2011/1/1' AND DOANHSO >=10000000) OR (NGDK<'2011/1/1' AND DOANHSO >=
 
 
 
-					/*Ng�n ng? truy v?n d? li?u c� c?u tr�c*/
+					/*Ngôn ngữ truy vấn dữ liệu có cấu trúc*/
 
 
 --CAU 1)
