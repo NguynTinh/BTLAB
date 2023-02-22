@@ -93,7 +93,8 @@ from [HumanResources].[Department] d join [HumanResources].[EmployeeDepartmentHi
 									 join [HumanResources].[EmployeePayHistory] e on h.BusinessEntityID=e.BusinessEntityID
 group by d.DepartmentID, d.name
 having avg([Rate])>30
-------phan 2 cau 1
+------phan 2
+----cau 1
 --Liệt kê các sản phẩm gồm các thông tin product names và product ID có trên
 --100 đơn đặt hàng trong tháng 7 năm 2008
 
